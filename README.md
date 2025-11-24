@@ -1,3 +1,3 @@
 # buscador_info_nacional
 Proyecto Nikou: Mi Asistente Digital para Conectar al Ciudadano y el Estado en Colombia...
-Toda la documentación y funcionamiento se encuentran anexados dentro del .ipynb
+Toda la documentación y funcionamiento se encuentran anexados dentro de Buscador_info_nacional.ipynb
